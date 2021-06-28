@@ -2,7 +2,7 @@
 <figure>
 <img src="https://media.giphy.com/media/co3XlJECfKyR4Zt8DA/giphy.gif" width="200" height="120">
   
-  <figcaption align = "center"><b>GIF.1 From Tenor</b> - A cool gif of myself participating in <em>Eco Challenge Fiji</em> (2019). A grueling <em>Expedition Race</em> that aired August 2020 on Amazon Prime.</figcaption>
+  <figcaption align = "center"><b>GIF.1 From Tenor</b> - A cool gif of myself, as I captained a team in <em>Eco Challenge Fiji</em> (2019). A grueling 11-Day 24/7<em>Expedition Race</em> that aired August 2020 on Amazon Prime.</figcaption>
 <figure/>
 
   ___
@@ -10,12 +10,12 @@
   ![GitHub followers](https://img.shields.io/github/followers/Namako11?style=social)
   
   ### Intro 
-  I am a novice Fijian programmer currently pursuing a Fullstack Developers course. 
+  I'm a novice programmer, from Fiji currently pursuing a Fullstack Developers Certification. 
 
-  - 🔭 I’m currently working on building a database especially for Indigenous Fijians. I'm currently in the Concept Developement Stage in this project.
-  - 🌱 I’m currently learning the basics of programming and especially Front-end languages. Projects are uploaded for review.
-  - 💬 Ask me about Boxing, Adventure Racing and tropical island living.
-  - ⚡ Fun fact: I once met President Barack Obama (During his 2nd term). I shook his hand and got it all on video. 
+  - 🔭 I’m currently working on building a database to help categorise records of Indigenous Fijians. Ive reached Concept Developement Stage of this project.
+  - 🌱 I’m eagerly learning the basics of programming, specifically Front-end languages. My novice projects are uploaded for review and welcome your feedback.
+  - 💬 Ask me about Boxing, Adventure Racing and Tropical Island living.
+  - ⚡ Fun fact: I met President Barack Obama once! During his 2nd term I got to shake his hand and captured it on video. 
   ___
   
  ### Toolbox 🧰  
