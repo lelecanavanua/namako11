@@ -22,9 +22,14 @@
   
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs logo" width="88px"> <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt="python logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" alt="atom logo logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github logo" width="88px">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original-wordmark.svg" alt="behance logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="xd logo" width="88px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original-wordmark.svg" alt="behance logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="xd logo" width="88px"> 
+  
+***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namako11&show_icons=true&theme=highcontrast)
+
   
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original-wordmark.svg" alt="behance logo" width="88px"> -->   
+
 
 
   
