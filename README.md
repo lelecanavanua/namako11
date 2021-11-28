@@ -6,9 +6,7 @@
   ![GitHub followers](https://img.shields.io/github/followers/Namako11?style=social)
   
   ### Intro 
-  I'm a novice programmer currently pursuing a Fullstack Developers Certification. 
-  
-  Tech & Computers have always been a passion of mine and  
+  I'm a novice programmer currently pursuing a Fullstack Developers Certification. Tech & Computers have always been a passion of mine and I cant wait to build useful projects and applications.. 
 
   - 🔭 My current project is to build a database that will store information exclusive to an indigenous Fijian. Project is still in concept phase.
   - 🌱 I’m eagerly learning the basics of programming, specifically Frontend languages rn. My novice projects are uploaded for review and welcome your feedback.
