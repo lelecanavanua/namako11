@@ -12,7 +12,7 @@
   ### Intro 
   I'm a novice programmer currently pursuing a Fullstack Developers Certification. 
 
-  - 🔭 I’m currently working to build a database that records information exclusive to an indigenous Fijian. Still in concept phase.
+  - 🔭 I’m currently working to build a database that stores information exclusive to an indigenous Fijian. Still in concept phase.
   - 🌱 I’m eagerly learning the basics of programming, specifically Front-end languages rn. My novice projects are uploaded for review and welcome your feedback.
   - 💬 Ask me about Boxing, Adventure Racing and Tropical Island living.
   - ⚡ Fun fact: I met President Barack Obama once! During his 2nd term I got to shake his hand and captured it on video. 
