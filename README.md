@@ -10,7 +10,7 @@
   ![GitHub followers](https://img.shields.io/github/followers/Namako11?style=social)
   
   ### Intro 
-  I'm a novice programmer, from Fiji currently pursuing a Fullstack Developers Certification. 
+  I'm a novice programmer currently pursuing a Fullstack Developers Certification. 
 
   - 🔭 I’m currently working on building a database to help categorise records of Indigenous Fijians. Ive reached Concept Developement Stage of this project.
   - 🌱 I’m eagerly learning the basics of programming, specifically Front-end languages. My novice projects are uploaded for review and welcome your feedback.
