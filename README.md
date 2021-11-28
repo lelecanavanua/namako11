@@ -25,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original-wordmark.svg" alt="behance logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illustrator logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop logo" width="88px"> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="xd logo" width="88px"> 
   
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namako11&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelecanvanua&show_icons=true&theme=highcontrast)
 
   
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original-wordmark.svg" alt="behance logo" width="88px"> -->   
