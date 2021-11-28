@@ -1,9 +1,5 @@
 ### Bula Vinaka!<img src="https://media.giphy.com/media/eE7JUqO1o6esWY7emZ/giphy.gif" width="42px" height="42px"> <br /> I'm Alivate Logavatu. Welcome to my profile!
-<figure>
-<img src="https://media.giphy.com/media/co3XlJECfKyR4Zt8DA/giphy.gif" width="200" height="120">
-  
-  <figcaption align = "center"><b>GIF.1 From Tenor</b> - A cool gif of myself as Captain of a team in <em>Eco Challenge Fiji</em> (2019). A grueling 11-Day 24/7<em> Expedition Race </em> that aired August 2020 on Amazon Prime.</figcaption>
-<figure/>
+
 
   ___
   
@@ -40,7 +36,11 @@
 
 Here are some ideas to get you started:
 
-
+<figure>
+<img src="https://media.giphy.com/media/co3XlJECfKyR4Zt8DA/giphy.gif" width="200" height="120">
+  
+  <figcaption align = "center"><b>GIF.1 From Tenor</b> - A cool gif of myself as Captain of a team in <em>Eco Challenge Fiji</em> (2019). A grueling 11-Day 24/7<em> Expedition Race </em> that aired August 2020 on Amazon Prime.</figcaption>
+<figure/>
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
