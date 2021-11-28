@@ -2,7 +2,7 @@
 <figure>
 <img src="https://media.giphy.com/media/co3XlJECfKyR4Zt8DA/giphy.gif" width="200" height="120">
   
-  <figcaption align = "center"><b>GIF.1 From Tenor</b> - A cool gif of myself, as I captained a team in <em>Eco Challenge Fiji</em> (2019). A grueling 11-Day 24/7<em>Expedition Race</em> that aired August 2020 on Amazon Prime.</figcaption>
+  <figcaption align = "center"><b>GIF.1 From Tenor</b> - A cool gif of myself as Captain of a team in <em>Eco Challenge Fiji</em> (2019). A grueling 11-Day 24/7<em> Expedition Race </em> that aired August 2020 on Amazon Prime.</figcaption>
 <figure/>
 
   ___
@@ -12,8 +12,8 @@
   ### Intro 
   I'm a novice programmer currently pursuing a Fullstack Developers Certification. 
 
-  - 🔭 I’m currently working on building a database to help categorise records of Indigenous Fijians. Ive reached Concept Developement Stage of this project.
-  - 🌱 I’m eagerly learning the basics of programming, specifically Front-end languages. My novice projects are uploaded for review and welcome your feedback.
+  - 🔭 I’m currently working to build a database that records information exclusive to an indigenous Fijian. Still in concept phase.
+  - 🌱 I’m eagerly learning the basics of programming, specifically Front-end languages rn. My novice projects are uploaded for review and welcome your feedback.
   - 💬 Ask me about Boxing, Adventure Racing and Tropical Island living.
   - ⚡ Fun fact: I met President Barack Obama once! During his 2nd term I got to shake his hand and captured it on video. 
   ___
